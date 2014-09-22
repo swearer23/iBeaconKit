@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.edaoyou.iBeaconKitOTA</string>
+				<string>com.idropbeacon.iBeaconKit</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
